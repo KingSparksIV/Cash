@@ -33,7 +33,7 @@ public class Main {
                 cents -= 1;
             }
 
-            System.out.println( count + " coins required for " + change + "USD");
+            System.out.println( count + " coins are the least amount of coins required for " + change + "USD");
 
         }
     }
